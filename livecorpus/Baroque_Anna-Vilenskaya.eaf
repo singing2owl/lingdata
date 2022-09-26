@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-09-26T23:12:45+03:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-09-26T23:14:39+03:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
@@ -641,43 +641,43 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3082"
                 TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts10">
-                <ANNOTATION_VALUE>эээ / я помню</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>эээ / я помню //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3083"
                 TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts13">
-                <ANNOTATION_VALUE>мы были с моим другом / в Варшаве</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>мы были с моим другом / в Варшаве //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3085"
                 TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts26">
-                <ANNOTATION_VALUE>и значит идем гуляем смотрим церковь / там играет орган / пойдем говорим послушаем</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>и значит идем гуляем смотрим церковь / там играет орган / пойдем говорим послушаем //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3086"
                 TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts54">
-                <ANNOTATION_VALUE>сидим слушаем / играется пьеса для органа / очень конечно красиво / но как-то вот мы такие ну ладно посмотрели церковь может пойдем дальше</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>сидим слушаем / играется пьеса для органа / очень конечно красиво / но как-то вот мы такие ну ладно посмотрели церковь может пойдем дальше //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3087"
                 TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts112">
-                <ANNOTATION_VALUE>и тут начинается вот такая вот подготовка к кадансу / а подготовка к кадансу на всех действует несколько гипнотически / то есть ты уже сидишь это как знаете наблюдать за компьютерной игрой когда кто-то проходит миссию / тебе уже интересно чем закончится ты не можешь просто так сказать ну я пошел / или знаете когда зашел на кухню а там кто-то из домашних смотрит сериал какой-нибудь Великолепный Век ты такой я такое смотреть не буду но если ты задержался на пять минут</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>и тут начинается вот такая вот подготовка к кадансу / а подготовка к кадансу на всех действует несколько гипнотически / то есть ты уже сидишь это как знаете наблюдать за компьютерной игрой когда кто-то проходит миссию / тебе уже интересно чем закончится ты не можешь просто так сказать ну я пошел / или знаете когда зашел на кухню а там кто-то из домашних смотрит сериал какой-нибудь Великолепный Век ты такой я такое смотреть не буду но если ты задержался на пять минут //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3088"
                 TIME_SLOT_REF1="ts117" TIME_SLOT_REF2="ts125">
-                <ANNOTATION_VALUE>тип ммм дальше начинается уже а этот кто / да хых</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>тип ммм дальше начинается уже а этот кто / да хых //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3089"
                 TIME_SLOT_REF1="ts128" TIME_SLOT_REF2="ts144">
-                <ANNOTATION_VALUE>а он че / ооо да ладно н то есть н дальше ты уже включаешься вот каданс работает так же то есть начинается выход на каданс и мы такие а нет давай дослушаем</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>а он че / ооо да ладно н то есть н дальше ты уже включаешься вот каданс работает так же то есть начинается выход на каданс и мы такие а нет давай дослушаем //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
