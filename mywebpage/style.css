@@ -1,0 +1,24 @@
+body {
+    background: url(https://raw.githubusercontent.com/singing2owl/lingdata/main/mywebpage/IMG_5622.JPG) no-repeat;
+    background-size: 100%;
+}
+
+table1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1900px;
+}
+
+td {
+    border: 1px solid black;
+    background-color: #CED7DB;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+}
+p {
+    font-size: 30px;
+}
